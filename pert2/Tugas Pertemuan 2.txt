@@ -1,0 +1,9 @@
+TUGAS INSTRUKSI
+
+1. Lakukan instalasi proyek Laravel.
+
+2. Buatlah nama proyek Laravel “booksales-api”.
+
+3. Buat repository baru di GitHub dengan nama “booksales-api-laravel”.
+
+4. Push ke GitHub, kemudian cantumkan link repository ke kantung tugas.
